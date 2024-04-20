@@ -14,3 +14,6 @@ filter ထည့်သုံးမယ့်အခါ ရေးရတဲ့ code 
 - [SQLite](https://github.com/sannlynnhtun-coding/DotNet8WebApi.SqliteSample)
 > ဒီ package ကတော့ SQLite လိုခေါ်ပြီး Database အသေးစားလေး တစ်ခုပါ 
 ASP.NET Core Web API project မှာ CRUD လေးစမ်းပြထားပေးပါတယ်
+
+- [FluentValidation](https://github.com/sannlynnhtun-coding/Packages.FluentValidationExample)
+> ဒီ package က class မှာပါတဲ့ fields တွေကို validation စစ်ပေးတဲ့ package ဖြစ်ပါတယ်
