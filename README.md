@@ -3,7 +3,8 @@
 #### Packages
 
 - [LiteDB](https://github.com/sannlynnhtun-coding/DotNet8WebApi.LiteDbSample)
->
+> MongoDB လိုမျိုးပါပဲ document database ပါ အဲ့တာလေးကိုမှ 
+ASP.NET Core Web API နဲ့ CRUD ရေးပြထားတာပါ
 
 - [Hangfire](https://github.com/sannlynnhtun-coding/DotNet8WebApi.HangfireApp)
 > ဒိ package လေးက နောက်ကွယ် background jobs တွေ အချိန်တစ်ခုမှာ run စေချင်တဲ့ ကိစ္စမျိုးတွေမှာ အသုံးပြုလို့ရပါတယ်
