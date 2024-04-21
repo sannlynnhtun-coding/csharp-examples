@@ -3,7 +3,7 @@
 #### Packages
 
 - [RestSharp](https://github.com/sannlynnhtun-coding/Packages.RestSharpExample)
->
+> ဒီ package က HttpClient လိုပဲ Backend API ဆီက fetch လုပ်ချင်တာမျိုးဆို သူ့ကို အသုံးပြုလို့ရတယ် မတူညီတဲ့ language တွေ API တွေအချင်းချင်း ချိတ်ဆက်တဲ့အခါလည်း အသုံးပြုလို့ရပါတယ်
 
 - [Newtonsoft.Json](https://github.com/sannlynnhtun-coding/Packages.NewtonsoftJsonExample)
 > ဒီ package က c# object ကို json အဖြစ်ပြောင်းလဲပေးတာ အဲ့တာကိုမှ json ကိုလည်း ကိုယ်လိုချင်တဲ့ c# object အနေနဲ့ ပြောင်းလဲလို့ရပါသေးတယ်
