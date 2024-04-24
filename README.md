@@ -6,7 +6,7 @@
 > ဒီ package တော့ code ကနေ email ပို့ချင်တဲ့အခါ အသုံးပြုလို့ရပါတယ်
 
 - [Serilog](https://github.com/sannlynnhtun-coding/Packages.SerilogExample)
-> ဒီ package ကတော့ application တွေမှာ ဖြစ်သမျှ issues လေးတွေ log ရိုက်ပြီး အမိအရဖမ်းနိုင်ဖို့ အသုံးပြုကြတာပါ
+> ဒီ package ကတော့ application တွေမှာ ဖြစ်သမျှ issues လေးတွေ log ရိုက်ပြီး အမိအရဖမ်းဖို့ အသုံးပြုလို့ရပါတယ်
 
 - [RestSharp](https://github.com/sannlynnhtun-coding/Packages.RestSharpExample)
 > ဒီ package က HttpClient လိုပဲ Backend API ဆီက fetch လုပ်ချင်တာမျိုးဆို သူ့ကို အသုံးပြုလို့ရတယ် မတူညီတဲ့ language တွေ API တွေအချင်းချင်း ချိတ်ဆက်တဲ့အခါလည်း အသုံးပြုလို့ရပါတယ်
