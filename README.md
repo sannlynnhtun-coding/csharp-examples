@@ -2,6 +2,9 @@
 
 #### Packages
 
+- [FluentEmail](https://github.com/sannlynnhtun-coding/Packages.FluentEmailExample)
+> ဒီ package တော့ code ကနေ email ပို့ချင်တဲ့အခါ အသုံးပြုလို့ရပါတယ်
+
 - [Serilog](https://github.com/sannlynnhtun-coding/Packages.SerilogExample)
 > ဒီ package ကတော့ application တွေမှာ ဖြစ်သမျှ issues လေးတွေ log ရိုက်ပြီး အမိအရဖမ်းနိုင်ဖို့ အသုံးပြုကြတာပါ
 
