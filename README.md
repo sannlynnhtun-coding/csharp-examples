@@ -2,6 +2,9 @@
 
 #### Packages
 
+- [Gridify](https://github.com/sannlynnhtun-coding/Packages.GridifyExamples)
+> ဒီ package တော့ EFCore မှာ Filter Extension အနေနဲ့အသုံးပြုလို့ရတယ် Web API ရဲ့ Query Parameters အနေနဲ့လည်း တွဲဖက်အသုံးပြုနိုင်တယ် 
+
 - [FluentEmail](https://github.com/sannlynnhtun-coding/Packages.FluentEmailExample)
 > ဒီ package တော့ code ကနေ email ပို့ချင်တဲ့အခါ အသုံးပြုလို့ရပါတယ်
 
