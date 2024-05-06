@@ -1,6 +1,6 @@
 ### C# Examples
 
-#### Console Project
+#### Console Projects
 - [Mini Inventory Management System](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniInventoryManagementSystem)
 - [Mini Expense Tracker](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniExpenseTracker)
 
