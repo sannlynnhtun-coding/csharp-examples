@@ -1,5 +1,9 @@
 ### C# Examples
 
+#### Console Project
+- [Mini Inventory Management System](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniInventoryManagementSystem)
+- [Mini Expense Tracker](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniExpenseTracker)
+
 #### Packages
 
 - [Gridify](https://github.com/sannlynnhtun-coding/Packages.GridifyExamples)
