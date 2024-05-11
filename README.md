@@ -5,6 +5,7 @@
 - [Mini Expense Tracker](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniExpenseTracker)
 - [Mini ATM](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniAtm)
 - [Mini Fitness Tracker](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniFitnessTracker)
+- [Mini Payroll Management System](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniPayrollManagementSystem)
 
 #### Packages
 
