@@ -6,6 +6,7 @@
 - [Mini ATM](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniAtm)
 - [Mini Fitness Tracker](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniFitnessTracker)
 - [Mini Payroll Management System](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniPayrollManagementSystem)
+- [Mini Movie Database](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniMovieDatabase)
 
 #### Packages
 
