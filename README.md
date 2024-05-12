@@ -7,6 +7,8 @@
 - [Mini Fitness Tracker](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniFitnessTracker)
 - [Mini Payroll Management System](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniPayrollManagementSystem)
 - [Mini Movie Database](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniMovieDatabase)
+- [Mini GitHub Finder](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniGitHubFinder)
+- [Mini Pizza Order System](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniPizzaOrderSystem)
 
 #### Packages
 
