@@ -9,6 +9,7 @@
 - [Mini Movie Database](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniMovieDatabase)
 - [Mini GitHub Finder](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniGitHubFinder)
 - [Mini Pizza Order System](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniPizzaOrderSystem)
+- [Mini Restaurant Management System](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniRestaurantManagementSystem)
 
 #### Packages
 
