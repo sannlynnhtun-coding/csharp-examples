@@ -11,6 +11,9 @@
 - [Mini Pizza Order System](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniPizzaOrderSystem)
 - [Mini Restaurant Management System](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniRestaurantManagementSystem)
 - [Mini Cinema Ticket Booking System](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniCinemaTicketBookingSystem)
+- [Mini To Do List](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniToDoList)
+- [Mini Issue Tracking System](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniIssueTrackingSystem)
+- [Mini Issue Tracking System V2](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniIssueTrackingSystemV2)
 
 ## Packages
 
