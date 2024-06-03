@@ -14,6 +14,7 @@
 - [Mini To Do List](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniToDoList)
 - [Mini Issue Tracking System](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniIssueTrackingSystem)
 - [Mini Issue Tracking System V2](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniIssueTrackingSystemV2)
+- [Mini Student Attendance Tracker](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniStudentAttendanceTracker)
 
 ## Packages
 
