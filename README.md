@@ -25,6 +25,10 @@
 - [GraphQL](https://github.com/sannlynnhtun-coding/SLHDotNetCore.GraphqlExample)
 - [Hangfire](https://github.com/sannlynnhtun-coding/DotNet8WebApi.HangfireApp)
 - [LiteDB](https://github.com/sannlynnhtun-coding/DotNet8WebApi.LiteDbSample)
+- [Sqlite](https://github.com/sannlynnhtun-coding/DotNet8WebApi.SqliteSample)
+- [Bogus](https://github.com/sannlynnhtun-coding/DotNet8WebApi.BogusSample)
+- [MediatR](https://github.com/sannlynnhtun-coding/DotNet8MediatR.WebApi)
+- [JWT Authentication](https://github.com/sannlynnhtun-coding/JWTAuthentication)
 - [E-Commerce Web API - sarah-sameh (Vertical Slice Architecture Project Structure By Me)](https://github.com/sannlynnhtun-coding/sarah-sameh-ecommerce-web-api)
 
 ## Blazor Web Assembly
