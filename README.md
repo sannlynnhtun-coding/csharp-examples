@@ -19,6 +19,34 @@
 ## ASP.NET Core Web API (.NET 8)
 - [OData](https://github.com/sannlynnhtun-coding/DotNet8WebApi.ODataSample)
 - [API Gateway Ocelot](https://github.com/sannlynnhtun-coding/DotNet8.ApiGatewayOcelot)
+- [Youtube Video Dowloader](https://github.com/sannlynnhtun-coding/DotNet8.YoutubeVideoDowloaderWebApi)
+- [Banking Management System (Blazor Web Assembly + ASP.NET Core Web API)](https://github.com/sannlynnhtun-coding/DotNet8.BankingManagementSystem)
+- [Microservice](https://github.com/sannlynnhtun-coding/DotNet8.MicroServiceDemo)
+- [GraphQL](https://github.com/sannlynnhtun-coding/SLHDotNetCore.GraphqlExample)
+- [Hangfire](https://github.com/sannlynnhtun-coding/DotNet8WebApi.HangfireApp)
+- [LiteDB](https://github.com/sannlynnhtun-coding/DotNet8WebApi.LiteDbSample)
+- [E-Commerce Web API - sarah-sameh (Vertical Slice Architecture Project Structure By Me)](https://github.com/sannlynnhtun-coding/sarah-sameh-ecommerce-web-api)
+
+## Blazor Web Assembly
+- [Hospital Management System](https://github.com/sannlynnhtun-coding/BlazorWasm.HospitalManagementSystem)
+- [Quotlets](https://github.com/sannlynnhtun-coding/BlazorWasm.Quotlets)
+- [Burmese Recipes](https://github.com/sannlynnhtun-coding/BlazorWasm.BurmeseRecipes)
+- [Burmese Agriculture](https://github.com/sannlynnhtun-coding/BlazorWasm.BurmeseAgriculture)
+- [To Do List V2](https://github.com/sannlynnhtun-coding/BlazorWasm.ToDoListV2)
+- [Food Delivery V1](https://github.com/sannlynnhtun-coding/BlazorWasm.FoodDeliveryV1)
+- [Food Delivery](https://github.com/sannlynnhtun-coding/BlazorWasm.FoodDelivery)
+- [Birds](https://github.com/sannlynnhtun-coding/BlazorWasm.Birds)
+- [Myanmar Month](https://github.com/sannlynnhtun-coding/BlazorWasm.MyanmarMonth)
+- [Incompatible Food](https://github.com/sannlynnhtun-coding/BlazorWasm.IncompatibleFood)
+- [Missing Historical Records](https://github.com/sannlynnhtun-coding/BlazorWasm.MissingHistoricalRecords)
+- [Melodic Journeys Of Collin](https://github.com/sannlynnhtun-coding/BlazorWasm.MelodicJourneysOfCollin)
+- [Fruits](https://github.com/sannlynnhtun-coding/BlazorWasm.Fruits)
+- [Cosmos Persona](https://github.com/sannlynnhtun-coding/BlazorWasm.CosmosPersona)
+- [PhayarSar](https://github.com/sannlynnhtun-coding/BlazorWasm.PhayarSar)
+
+## Blazor Server
+- [SignalR](https://github.com/sannlynnhtun-coding/BlazorSignalR)
+- [MVC Login For Blazor Server For Server-Side Authentication](https://github.com/sannlynnhtun-coding/BlazorMvcLoginApp)
 
 ## Packages
 
