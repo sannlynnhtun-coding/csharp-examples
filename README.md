@@ -1,5 +1,33 @@
 # C# Examples
 
+1. **Console Projects**:
+   - Basic console applications demonstrating fundamental C# concepts.
+
+2. **ASP.NET Core Web MVC**:
+   - Projects using Model-View-Controller architecture for web applications.
+
+3. **ASP.NET Core Web API**:
+   - Examples of RESTful APIs using ASP.NET Core.
+
+4. **Blazor Web Assembly and Blazor Server**:
+   - Projects showcasing Blazor, a framework for building interactive web UIs.
+
+5. **Windows Forms**:
+   - Desktop applications using the Windows Forms framework.
+
+6. **Packages**:
+   - Examples demonstrating the use of various NuGet packages:
+     - **Gridify**: Simplifies data grid operations.
+     - **FluentEmail**: For sending emails.
+     - **Serilog**: Logging library.
+     - Others include FluentValidation, Dapper, Mediator, etc.
+
+7. **Mini Projects**:
+   - Small-scale applications such as Inventory Management Systems and Expense Trackers.
+
+8. **Software Design (Architecture)**:
+   - Examples focused on software design principles and architecture.
+
 ## Console Projects
 - [Mini Inventory Management System](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniInventoryManagementSystem)
 - [Mini Expense Tracker](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniExpenseTracker)
