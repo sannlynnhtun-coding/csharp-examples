@@ -42,6 +42,7 @@
 - [Mini POS](https://github.com/sannlynnhtun-coding/BlazorWasm.MiniPOS)
 - [Budget App](https://github.com/sannlynnhtun-coding/BlazorWasm.BudgetApp)
 - [Expense Tracker](https://github.com/sannlynnhtun-coding/BlazorWasm.ExpenseTracker)
+- [Lat Htauk Bay Din](https://github.com/sannlynnhtun-coding/BlazorWasm.LatHtaukBayDin)
 - [Pick A Pile](https://github.com/sannlynnhtun-coding/BlazorWasm.PickAPile)
 - [Quotlets](https://github.com/sannlynnhtun-coding/BlazorWasm.Quotlets)
 - [Tvflix](https://github.com/sannlynnhtun-coding/BlazorWasm.Tvflix)
@@ -58,6 +59,9 @@
 - [Myanmar Month](https://github.com/sannlynnhtun-coding/BlazorWasm.MyanmarMonth)
 - [Weather App V1](https://github.com/sannlynnhtun-coding/BlazorWasm.WeatherAppV1)
 - [Weather App V2](https://github.com/sannlynnhtun-coding/BlazorWasm.WeatherAppV2)
+- [Memory Card Game](https://github.com/sannlynnhtun-coding/BlazorWasm.MemoryCardGame)
+- [Roll Dice](https://github.com/sannlynnhtun-coding/BlazorWasm.RollDice)
+- [Calculator](https://github.com/sannlynnhtun-coding/BlazorWasm.Calculator)
 - [Incompatible Food](https://github.com/sannlynnhtun-coding/BlazorWasm.IncompatibleFood)
 - [Missing Historical Records](https://github.com/sannlynnhtun-coding/BlazorWasm.MissingHistoricalRecords)
 - [Melodic Journeys Of Collin](https://github.com/sannlynnhtun-coding/BlazorWasm.MelodicJourneysOfCollin)
@@ -72,6 +76,9 @@
 ## Blazor Server
 - [SignalR](https://github.com/sannlynnhtun-coding/BlazorSignalR)
 - [MVC Login For Blazor Server For Server-Side Authentication](https://github.com/sannlynnhtun-coding/BlazorMvcLoginApp)
+
+## Windows Forms
+- [Lat Htauk Bay Din](https://github.com/sannlynnhtun-coding/LatHtaukBayDin.WinsForm)
 
 ## Packages
 
