@@ -46,6 +46,7 @@
 - [Melodic Journeys Of Collin](https://github.com/sannlynnhtun-coding/BlazorWasm.MelodicJourneysOfCollin)
 - [Fruits](https://github.com/sannlynnhtun-coding/BlazorWasm.Fruits)
 - [Cosmos Persona](https://github.com/sannlynnhtun-coding/BlazorWasm.CosmosPersona)
+- [Snakes](https://github.com/sannlynnhtun-coding/BlazorWasm.Snakes)
 - [PhayarSar](https://github.com/sannlynnhtun-coding/BlazorWasm.PhayarSar)
 
 ## Blazor Server
