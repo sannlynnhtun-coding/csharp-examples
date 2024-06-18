@@ -16,6 +16,9 @@
 - [Mini Issue Tracking System V2](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniIssueTrackingSystemV2)
 - [Mini Student Attendance Tracker](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniStudentAttendanceTracker)
 
+## ASP.NET Core Web API (.NET 8)
+[API Gateway Ocelot](https://github.com/sannlynnhtun-coding/DotNet8.ApiGatewayOcelot)
+
 ## Packages
 
 #### [Gridify](https://github.com/sannlynnhtun-coding/Packages.GridifyExamples)
