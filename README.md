@@ -17,8 +17,8 @@
 - [Mini Student Attendance Tracker](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniStudentAttendanceTracker)
 
 ## ASP.NET Core Web API (.NET 8)
-[OData](https://github.com/sannlynnhtun-coding/DotNet8WebApi.ODataSample)
-[API Gateway Ocelot](https://github.com/sannlynnhtun-coding/DotNet8.ApiGatewayOcelot)
+- [OData](https://github.com/sannlynnhtun-coding/DotNet8WebApi.ODataSample)
+- [API Gateway Ocelot](https://github.com/sannlynnhtun-coding/DotNet8.ApiGatewayOcelot)
 
 ## Packages
 
