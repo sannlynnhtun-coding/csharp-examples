@@ -27,6 +27,10 @@
 
 8. **Software Design (Architecture)**:
    - Examples focused on software design principles and architecture.
+  
+## Give a Star! :star:
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
 
 ## Console Projects
 - [Mini Inventory Management System](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniInventoryManagementSystem)
