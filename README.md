@@ -47,6 +47,7 @@ If you like this repository to learn or start your solution, please give it a st
 - [Mini Issue Tracking System](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniIssueTrackingSystem)
 - [Mini Issue Tracking System V2](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniIssueTrackingSystemV2)
 - [Mini Student Attendance Tracker](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniStudentAttendanceTracker)
+- [Mini Medical Store Management System](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniMedicalStoreManagementSystem)
 
 ## ASP.NET Core Web MVC
 - [Auth Middlware](https://github.com/sannlynnhtun-coding/AuthMiddlware)
