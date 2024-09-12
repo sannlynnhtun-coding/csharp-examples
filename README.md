@@ -33,6 +33,7 @@
 If you like this repository to learn or start your solution, please give it a star. Thanks!
 
 ## Console Projects
+- [MIni Bank Account CQRS](https://github.com/sannlynnhtun-coding/ConsoleApp.MIniBankAccountCqrs)
 - [Mini Inventory Management System](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniInventoryManagementSystem)
 - [Mini Expense Tracker](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniExpenseTracker)
 - [Mini ATM](https://github.com/sannlynnhtun-coding/ConsoleApp.MiniAtm)
