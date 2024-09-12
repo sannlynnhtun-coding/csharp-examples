@@ -54,6 +54,7 @@ If you like this repository to learn or start your solution, please give it a st
 - [Auth Middlware](https://github.com/sannlynnhtun-coding/AuthMiddlware)
 
 ## ASP.NET Core Web API (.NET 8, .NET 7)
+- [Shop Management System (Minimal API, Dapper)](https://github.com/sannlynnhtun-coding/shop-management-system)
 - [OData](https://github.com/sannlynnhtun-coding/DotNet8WebApi.ODataSample)
 - [API Gateway Ocelot](https://github.com/sannlynnhtun-coding/DotNet8.ApiGatewayOcelot)
 - [Youtube Video Dowloader](https://github.com/sannlynnhtun-coding/DotNet8.YoutubeVideoDowloaderWebApi)
